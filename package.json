@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "veslauncher",
   "version": "2.1.1",
-  "productName": "Helios Launcher",
+  "productName": "VES Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Gizmo0320 (https://github.com/Gizmo0320/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/V-Tube-Entertainment/Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/V-Tube-Entertainment/Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/V-Tube-Entertainment/Launcher.git"
   }
 }
