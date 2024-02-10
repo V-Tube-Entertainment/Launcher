@@ -16,6 +16,6 @@ sourceGithubLink = "https://github.com/V-Tube-Entertainment/Launcher"
 supportLink = "https://github.com/V-Tube-Entertainment/Launcher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO V-Tube Entertainment"
+welcomeHeader = "WELCOME TO VES"
 welcomeDescription = "Our mission is to bring the fun to you."
-welcomeDescCTA = "You are just a few clicks away from fun."
+welcomeDescCTA = "You are just a few clicks away from the action."
