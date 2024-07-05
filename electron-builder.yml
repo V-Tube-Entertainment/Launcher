@@ -14,8 +14,8 @@ extraResources:
   - 'libraries'
 
 # Windows Configuration
-win: 
-  target: 
+win:
+  target:
     - target: 'nsis'
       arch: 'x64'
 
@@ -37,7 +37,7 @@ mac:
   category: 'public.app-category.games'
 
 # Linux Configuration
-linux: 
+linux:
   target: 'AppImage'
   maintainer: 'Gizmo0320'
   vendor: 'Gizmo0320'
