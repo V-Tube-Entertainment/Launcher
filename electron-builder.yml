@@ -1,5 +1,5 @@
-appId: 'veslauncher'
-productName: 'VES Launcher'
+appId: 'envlauncher'
+productName: 'En-V Arcade Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2020-2025 Gizmo0320'
