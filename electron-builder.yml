@@ -2,7 +2,7 @@ appId: 'veslauncher'
 productName: 'VES Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2020-2024 Gizmo0320'
+copyright: 'Copyright © 2020-2025 Gizmo0320'
 
 asar: true
 compression: 'maximum'
